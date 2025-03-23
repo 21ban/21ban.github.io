@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "21班官网"
 title_separator          : "-"
 name                     : &name "bee"
-description              : &description "喜欢蜜蜂喜欢ba"
+description              : &description "喜欢蜜蜂喜欢蔚蓝档案"
 url                      : https://21ban.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "21ban/21ban.github.io"
@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "小鸟游星野"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : # example: "女"  
+  bio              : "一个热爱ba的人"
+  location         : "美国"
+  employer         : "毕业于阿拜多斯"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "16095973332@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -45,35 +45,35 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "21ban"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  facebook         : 杨相龙他爸# Username
+  flickr           : 杨相龙他爸# Username
+  foursquare       : 杨相龙他爸# Username
+  goodreads        : 杨相龙他爸# Username
+  google_plus      : 杨相龙他爸# Username
+  keybase          : 杨相龙他爸# Username
+  instagram        : 杨相龙他爸# Username
+  lastfm           : 杨相龙他爸# Username
+  linkedin         : 杨相龙他爸# Username
+  mastodon         : 杨相龙他爸# URL
+  medium           : 杨相龙他爸# URL
+  pinterest        : 杨相龙他爸# Username
+  soundcloud       : 杨相龙他爸# Username
+  steam            : 杨相龙他爸# Username
+  telegram         : 杨相龙他爸# URL
+  tumblr           : 杨相龙他爸# Username
+  twitter          : 杨相龙他爸# Username for X / Twitter
+  vine             : 杨相龙他爸# Username
+  weibo            : 杨相龙他爸# Username
+  wikipedia        : 杨相龙他爸# Username
+  xing             : 杨相龙他爸# Username
+  youtube          : 杨相龙他爸# Username
+  zhihu            : 杨相龙他爸# Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
