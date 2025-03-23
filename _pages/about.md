@@ -233,3 +233,5 @@ redirect_from:
 
 
 蔚蓝档案真好玩![00064EAF](https://github.com/user-attachments/assets/b98fdae8-851f-4bea-95b5-c938a28b3bc3)
+(https://s3.bmp.ovh/imgs/2025/03/23/5a6619c602f9f865.jpg)
+好不好看
