@@ -49,6 +49,8 @@ redirect_from:
 **加入开中，拥抱成功，**
 
 **加入开中集体，成就人生！**
+![无](https://s3.bmp.ovh/imgs/2025/03/23/5a6619c602f9f865.jpg)口苗!
+
 
 
 
@@ -233,5 +235,4 @@ redirect_from:
 
 
 蔚蓝档案真好玩![00064EAF](https://github.com/user-attachments/assets/b98fdae8-851f-4bea-95b5-c938a28b3bc3)
-(https://s3.bmp.ovh/imgs/2025/03/23/5a6619c602f9f865.jpg)
-好不好看
+
